@@ -30,7 +30,7 @@
 
 ## Instructions
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* I created a script that will loop through all the stocks for one year and output the following information.
 
   - [x] The ticker symbol.
 
@@ -48,10 +48,10 @@
 
 ### CHALLENGES
 
-- [x] Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+- [x] My solution is also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution look as follows:
 
 ![hard_solution](Images/solution_2014.png)
 
-- [x] Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+- [x] My VBA script will run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
